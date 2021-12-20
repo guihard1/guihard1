@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api?guihard1=anuraghazra&show_icons=true&theme=radical
 
 - 👋 Olá, me chamo Luiz Guilherme e meu apelido é: @guihard1
 - 👀 Tenho foco em conseguir meu primeiro emprego de Desenvolvedor
