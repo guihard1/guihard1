@@ -14,8 +14,6 @@
  
 <div> 
   <a href = "mailto:luizgdev@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-guilherme-campos-rodrigues-da-silva-101723226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/guihard1/guihard1/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.linkedin.com/in/luiz-guilherme-campos-rodrigues-da-silva-101723226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
