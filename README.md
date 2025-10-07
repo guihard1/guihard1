@@ -13,10 +13,11 @@
   
   ##
  
-<div> 
- 	<a href="https://www.twitch.tv/guihard1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<div>
+  [![My Skills](https://skillicons.dev/icons?i=js,react,php,phpstorm,postgresql,html,css)](https://skillicons.dev)
+ 	<!-- <a href="https://www.twitch.tv/guihard1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:luizgdev@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-guilherme-campos-rodrigues-da-silva-101723226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://github.com/PHPTCloud/PHPTCloud/blob/main/assets/php.png" target="_blank"></a>
+ <a href="https://github.com/PHPTCloud/PHPTCloud/blob/main/assets/php.png" target="_blank"></a> -->
  
 </div>
