@@ -17,18 +17,16 @@ Exportar para as Planilhas
 🚀 Projetos em Destaque
 Confira alguns dos projetos que me dediquei:
 
-[Nome do Projeto 1]: Projeto criado para controle interno de verificação de usuarios da Girolando feito por mim. (Aplicação web com as tecnologias PHP/PostgreSQL/HTML&CSS).
+[Sistema de Verificação Gir]: Projeto criado para controle interno de verificação de usuarios da Girolando feito por mim. (Aplicação web com as tecnologias PHP/PostgreSQL/HTML&CSS).
 
 🔗 Repositório: [Link para o repo](https://github.com/guihard1/3-CONGRESSO-GIROLANDO)
 
-[Nome do Projeto 2]: Projeto de formulario com integração no banco de dados pra guardar login e fazer verificação de usuario, mantendo as medidas de segurança necessária.
+[Projeto de Formulario]: Projeto de formulario com integração no banco de dados pra guardar login e fazer verificação de usuario, mantendo as medidas de segurança necessária.
 
 🔗 Repositório: [[Link para o repo](https://github.com/guihard1/form-project)
 
 ✉️ Conecte-se Comigo
-Plataforma	Link
 LinkedIn	[Seu link do LinkedIn](https://www.linkedin.com/in/luiz-guilherme-campos-rodrigues-da-silva-101723226/)
-Email	[Seu endereço de email]
 
 Exportar para as Planilhas
 <p align="center">
